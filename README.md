@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil! 💜
 
-<!--
-**Jhenyfer969/Jhenyfer969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jhenyfer Martins 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+  
+- Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+## Você pode entrar em contato comigo 📫
+
+jhenyfermarcarvalho@gmail.com 
+
+![](https://github.com/Jhenyfer969/Jhenyfer969/assets/132595976/e3874acd-c575-4ade-9965-82505db20c65)
